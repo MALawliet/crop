@@ -4,10 +4,7 @@ import os.path
 import numpy as np
 import cv2 as cv
 import time
-'''hello
 
-
-			thing'''
 parser = argparse.ArgumentParser()
 dir = '/Users/datagridlangus/Desktop/img'
 outdir = '/Users/datagridlangus/Desktop/trash/'
